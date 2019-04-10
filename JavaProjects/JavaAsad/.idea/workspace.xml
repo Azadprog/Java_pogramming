@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8967e7c-c306-4322-a26d-60ac0ca6f7cb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/firsprogram/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/firsprogram/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,9 +18,7 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/firsprogram/src/com/company/Bankaccount.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-153" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -52,10 +50,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="667" />
-    <option name="y" value="314" />
+    <option name="x" value="940" />
+    <option name="y" value="358" />
     <option name="width" value="945" />
-    <option name="height" value="520" />
+    <option name="height" value="453" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -70,33 +68,12 @@
           <expand>
             <path>
               <item name="JavaAsad" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaAsad" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaAsad" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaAsad" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaAsad" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaAsad" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaAsad" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaAsad" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaAsad" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaAsad" type="462c0819:PsiDirectoryNode" />
-              <item name="Lesson1" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="asad" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -105,7 +82,8 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Java_pogramming/JavaProjects" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -139,9 +117,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="667" y="314" width="945" height="520" extended-state="0" />
+    <frame x="940" y="358" width="945" height="453" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5423729" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.5683616" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -169,13 +147,8 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/firsprogram/src/com/company/Vip.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/firsprogram/src/com/company/Bankaccount.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-153" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/firsprogram/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -183,6 +156,9 @@
           <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/firsprogram/src/com/company/Vip.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Lesson1/src/com/asad/Main.java">
       <provider selected="true" editor-type-id="text-editor">
